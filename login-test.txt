@@ -1,0 +1,5 @@
+My Login Automation Testing Practice
+
+1. Verify valid login.
+2. Verify invalid login.
+3. Verify error message.
